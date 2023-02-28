@@ -1,0 +1,9 @@
+To start using the bot you need to add your data from config.ini file
+
+Add your list of names and birth dates to the file birthdays.csv in the format (name,date) where the date is in MM-DD format.
+
+Write ready greeting messages in the file birthday_messages.txt, where each 1 line is a text that will be randomly selected, do not forget to write {name} anywhere in the string where you want, so that in the future it will be replaced by the real name.
+
+If you want, put your pictures in the folder photo_birthdays
+
+After all that is worth running the script, and preferably on some server.
